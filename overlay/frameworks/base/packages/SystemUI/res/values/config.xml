@@ -96,4 +96,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
          the sensor embedded in the power key and listening all the time
          causes a poor experience. -->
     <bool name="config_fingerprintWakeAndUnlock">true</bool>
+
+    <!-- Whether to use window background blur for the volume dialog. -->
+    <bool name="config_volumeDialogUseBackgroundBlur">true</bool>
 </resources>
